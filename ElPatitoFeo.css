@@ -45,7 +45,7 @@ p:last-of-type {
   }
 
 .footer {
-  background-image: url(/images/hierba.jpg);
+  background-image: url(images/hierba.jpg);
   background-size: contain;
   height: 100px;
   width: 100%;
